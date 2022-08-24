@@ -1,4 +1,4 @@
-# bhushan-srivastava.github.io 
+# [bhushan-srivastava.github.io](https://github.com/bhushan-srivastava/) 
 
 ### N-Queens-Visualizer 
 The N-Queens problem is to place N-Queens on an NxN chessboard such that no queens attack each other.  
@@ -7,7 +7,4 @@ You can access it here: [https://bhushan-srivastava.github.io/N-Queens-Visualize
 
 ### Sorting-Visualizer 
 This project visualizes sorting algorithms.  
-You can access it here: [https://bhushan-srivastava.github.io/Sorting-Visualizer/](https://bhushan-srivastava.github.io/Sorting-Visualizer/) 
-
-## 
-[Made by Bhushan Srivastava](https://github.com/bhushan-srivastava/)
+You can access it here: [https://bhushan-srivastava.github.io/Sorting-Visualizer/](https://bhushan-srivastava.github.io/Sorting-Visualizer/)
