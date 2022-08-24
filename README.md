@@ -7,4 +7,7 @@ You can access it here: [https://bhushan-srivastava.github.io/N-Queens-Visualize
 
 ### Sorting-Visualizer 
 This project visualizes sorting algorithms.  
-You can access it here: [https://bhushan-srivastava.github.io/Sorting-Visualizer/](https://bhushan-srivastava.github.io/Sorting-Visualizer/)
+You can access it here: [https://bhushan-srivastava.github.io/Sorting-Visualizer/](https://bhushan-srivastava.github.io/Sorting-Visualizer/) 
+
+## 
+[Made by Bhushan Srivastava](https://github.com/bhushan-srivastava/)
