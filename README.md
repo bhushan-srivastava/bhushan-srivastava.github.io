@@ -7,4 +7,9 @@ You can access it here: [https://bhushan-srivastava.github.io/N-Queens-Visualize
 
 ### [Sorting-Visualizer](https://bhushan-srivastava.github.io/Sorting-Visualizer/) 
 This project visualizes sorting algorithms.  
-You can access it here: [https://bhushan-srivastava.github.io/Sorting-Visualizer/](https://bhushan-srivastava.github.io/Sorting-Visualizer/)
+You can access it here: [https://bhushan-srivastava.github.io/Sorting-Visualizer/](https://bhushan-srivastava.github.io/Sorting-Visualizer/) 
+
+### [Infix-Postfix-Prefix-Conversion-Visualizer](https://bhushan-srivastava.github.io/Infix-Postfix-Prefix-Conversion-Visualizer/) 
+An arithmetic expression can be written in three notations without changing the output of the expression. These notations are - Infix, Postfix and Prefix.  
+This project visualizes the conversions between these notations.  
+You can access it here: [https://bhushan-srivastava.github.io/Infix-Postfix-Prefix-Conversion-Visualizer/](https://bhushan-srivastava.github.io/Infix-Postfix-Prefix-Conversion-Visualizer/) 
