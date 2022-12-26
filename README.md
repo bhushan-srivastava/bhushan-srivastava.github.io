@@ -1,4 +1,12 @@
-# [bhushan-srivastava.github.io](https://github.com/bhushan-srivastava/) 
+# Bhushan Srivastava | Web Developer
+
+I'm a MERN Stack Developer interested in Back-end Development.
+
+## Contacts  
+
+### [LinkedIn](www.linkedin.com/in/bhushan-web-developer), [GitHub](https://github.com/bhushan-srivastava/)  
+
+## Projects  
 
 ### [Purse (MERN)](https://purse.cyclic.app) 
 Track your cash money using Purse. CRUD, filter, sort and analyze your transactions.  
