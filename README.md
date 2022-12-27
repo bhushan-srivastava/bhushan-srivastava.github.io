@@ -1,5 +1,3 @@
-# [bhushan-srivastava.github.io | Web Developer](https://github.com/bhushan-srivastava/)  
-
 I'm a MERN Stack Developer interested in Back-end Development.
 
 ## Contacts  
