@@ -2,7 +2,7 @@ I'm a MERN Stack Developer interested in Back-end Development.
 
 ## Contacts  
 
-### [LinkedIn](www.linkedin.com/in/bhushan-web-developer), [GitHub](https://github.com/bhushan-srivastava/)  
+### [LinkedIn](www.linkedin.com/in/bhushan-web-developer) [GitHub](https://github.com/bhushan-srivastava/)  
 
 ## Projects  
 
